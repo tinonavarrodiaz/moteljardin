@@ -1,0 +1,27 @@
+/* CSS Document */
+#kL{
+	display:none;
+}
+
+.audio_test{
+	position: absolute;
+	top: 15px;
+	right: 10px;
+	width: 314px;
+	height: 22px;
+	z-index: 100;
+	background-image: url(../img/nosoportado.png);
+	background-color: #000;
+}
+.audio button#mute {
+	display:none;
+}
+.audio button#play {
+	display:none;
+}
+.audio button#mute:hover {
+	display:none;
+}
+.audio button#play:hover {
+	display:none;
+	}
